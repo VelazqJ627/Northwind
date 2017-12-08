@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "SupplierDetails";
+}
+
+<h2>SupplierDetails</h2>
+
+@foreach (var anItem in ViewBag.ListOfSuppliers)
+{
+    <table border="1">
+        <tr>
+            <th>SupplierID</th>
+            <th>CompanyName</th>
+            <th>ContactName</th>
+            <th>ContactTitle</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>Region</th>
+            <th>PostalCode</th>
+            <th>Country</th>
+            <th>Phone</th>
+            <th>Fax</th>
+            <th>HomePage</th>
+        </tr>
+        <tr>
+            <td>@anItem.SupplierId</td>
+            <td>@anItem.CompanyName</td>
+            <td>@anItem.ContactName</td>
+            <td>@anItem.ContactTitle</td>
+            <td>@anItem.Address</td>
+            <td>@anItem.City</td>
+            <td>@anItem.Region</td>
+            <td>@anItem.PostalCode</td>
+            <td>@anItem.Country</td>
+            <td>@anItem.Phone</td>
+            <td>@anItem.Fax</td>
+            <td>@anItem.HomePage</td>
+
+        </tr>
+    </table>
+
+        <h2>Update Form</h2>
+        <form action="UpdateSuppliers">
+            SupplierId<input type="text" value="@anItem.SupplierId" name="SupId" /><br />
+            CompanyName<input type="text" value="@anItem.CompanyName" name="CompName" /><br />
+            ContactName<input type="text" value="@anItem.ContactName" name="ContNam" /><br />
+            ContactTitle<input type="text" value="@anItem.ContactTitle" name="ConTi" /><br />
+            Address<input type="text" value="@anItem.Address" name="SAdd" /><br />
+            City<input type="text" value="@anItem.City" name="SCity" /><br />
+            Region<input type="text" value="@anItem.Region" name="SReg" /><br />
+            PostalCode<input type="text" value="@anItem.PostalCode" name="SPoCo" /><br />
+            Country<input type="text" value="@anItem.Country" name="SCou" /><br />
+            Phone<input type="text" value="@anItem.Phone" name="SPho" /><br />
+            Fax<input type="text" value="@anItem.Fax" name="SFax" /><br />
+            HomePage<input type="text" value="@anItem.HomePage" name="SHP" /><br />
+
+            <button type="submit" value="submit">Submit Changes</button>
+            <button type="reset" value="reset">Reset Form</button>
+        </form>
+
+}
+
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+
+
+

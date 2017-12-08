@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Category";
+}
+
+<h2>Category</h2>
+
+
+<table border="1">
+    <tr>
+        <th>Category Id</th>
+        <th>Category Name</th>
+        <th>Description</th>
+
+
+    </tr>
+
+    @foreach (var anItem in ViewBag.ListOfCategories)
+    {
+        <tr>
+            <td>@anItem.CategoryId</td>
+            <td><a href="CategoryDetail?CatId=@anItem.CategoryId">@anItem.CategoryName</a></td>
+            <td>@anItem.Description</td>
+        </tr>
+    }
+
+</table>
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+
+

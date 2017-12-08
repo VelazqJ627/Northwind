@@ -1,0 +1,193 @@
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\ApplicationInsights.config
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\csc.exe
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\vbc.exe
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\VBCSCompiler.exe
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.dll.config
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.pdb
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Web.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Helpers.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Mvc.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Razor.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Deployment.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Razor.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Web.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Razor.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Deployment.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Razor.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Helpers.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Mvc.xml
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.csprojResolveAssemblyReference.cache
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.dll
+C:\Users\NunezJ\Documents\Visual Studio 2015\Projects\DatabaseConcepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.pdb
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\ApplicationInsights.config
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\csc.exe
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\vbc.exe
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\VBCSCompiler.exe
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.dll.config
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.pdb
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Web.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.ApplicationInsights.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Helpers.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Mvc.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Razor.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Deployment.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Razor.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Web.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.ApplicationInsights.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Razor.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Deployment.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Razor.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Helpers.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Mvc.xml
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.csprojResolveAssemblyReference.cache
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.dll
+C:\Users\coold\Desktop\Database Concepts\DatabaseConcepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.pdb
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\ApplicationInsights.config
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\csc.exe
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\vbc.exe
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\VBCSCompiler.exe
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.dll.config
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.pdb
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Web.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.ApplicationInsights.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Helpers.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Mvc.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Razor.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Deployment.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Razor.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Web.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.ApplicationInsights.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Razor.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Deployment.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Razor.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Helpers.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Mvc.xml
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.csprojResolveAssemblyReference.cache
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.dll
+C:\Users\coold\OneDrive\Documents\Database Concepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.pdb
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.csprojResolveAssemblyReference.cache
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\obj\Debug\Connecting to a Database.pdb
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\ApplicationInsights.config
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\csc.exe
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\vbc.exe
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\VBCSCompiler.exe
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Views\Home\OrderDetails.cshtml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.dll.config
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Connecting to a Database.pdb
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Web.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.ApplicationInsights.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Helpers.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Mvc.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Razor.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Deployment.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Razor.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.Web.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.ApplicationInsights.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Razor.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Deployment.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Webpages.Razor.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Helpers.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Mvc.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Newtonsoft.Json.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Net.Http.Formatting.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Http.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Http.WebHost.dll
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\Newtonsoft.Json.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Net.Http.Formatting.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Http.xml
+C:\Users\coold\Desktop\Database Concepts\Connecting to a Database\Connecting to a Database\bin\System.Web.Http.WebHost.xml

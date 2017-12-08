@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "Orders";
+}
+
+<h2>Orders</h2>
+<table border="1">
+    <tr>
+        <th>OrderId</th>
+        <th>CustomerId</th>
+        <th>EmployeeId</th>
+        <th>OrderDate</th>
+        <th>RequiredDate</th>
+        <th>ShippedDate</th>
+        <th>ShipVia</th>
+        <th>Freight</th>
+        <th>ShipName</th>
+        <th>ShipAddress</th>
+        <th>ShipCity</th>
+        <th>ShipRegion</th>
+        <th>ShipPostalCode</th>
+        <th>ShipCountry</th>
+
+    </tr>
+
+    @foreach (var anItem in ViewBag.ListOfOrders)
+    {
+        <tr>
+            <td>@anItem.OrderId</td>
+            <td><a href="OrdersDetail?OrdId=@anItem.OrderId">@anItem.CustomerId</a></td>
+            <td>@anItem.EmployeeId</td>
+            <td>@anItem.OrderDate</td>
+            <td>@anItem.RequiredDate</td>
+            <td>@anItem.ShippedDate</td>
+            <td>@anItem.ShipVia</td>
+            <td>@anItem.Freight</td>
+            <td>@anItem.ShipName</td>
+            <td>@anItem.ShipAddress</td>
+            <td>@anItem.ShipCity</td>
+            <td>@anItem.ShipRegion</td>
+            <td>@anItem.ShipPostalCode</td>
+            <td>@anItem.ShipCountry</td>
+
+        </tr>
+    }
+
+</table>
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+

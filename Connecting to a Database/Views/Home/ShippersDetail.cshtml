@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "ShippersDetail";
+}
+
+<h2>ShippersDetail</h2>
+
+@foreach (var anItem in ViewBag.ListOfShippers)
+{
+    <table border="1">
+        <tr>
+            <th>Shipper Id</th>
+            <th>Company Name</th>
+            <th>Phone</th>
+        </tr>
+        <tr>
+            <td>@anItem.ShipperId</td>
+            <td>@anItem.CompanyName</td>
+            <td>@anItem.Phone</td>
+        </tr>
+    </table>
+
+        <h2>Update Form</h2>
+        <form action="UpdateShippers">
+            ShipperId<input type="text" value="@anItem.ShipperId" name="ShipId" /><br />
+            CompanyName<input type="text" value="@anItem.CompanyName" name="ShCN" /><br />
+            Phone<input type="text" value="@anItem.Phone" name="ShP" /><br />
+            <button type="submit" value="submit">Submit Changes</button>
+            <button type="reset" value="reset">Reset Form</button>
+        </form>
+
+}
+
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+

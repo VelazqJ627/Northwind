@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Shippers";
+}
+
+<h2>Shippers</h2>
+<table border="1">
+    <tr>
+        <th>Shipper Id</th>
+        <th>Company Name</th>
+        <th>Phone</th>
+
+
+    </tr>
+
+    @foreach (var anItem in ViewBag.ListOfShippers)
+    {
+        <tr>
+            <td>@anItem.ShipperId</td>
+            <td><a href="ShippersDetail?ShipId=@anItem.ShipperId">@anItem.CompanyName</a></td>
+            <td>@anItem.Phone</td>
+        </tr>
+    }
+
+</table>
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+
+

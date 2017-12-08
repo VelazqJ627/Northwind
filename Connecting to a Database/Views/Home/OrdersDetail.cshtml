@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "OrdersDetail";
+}
+
+<h2>OrdersDetail</h2>
+@foreach (var anItem in ViewBag.ListOfOrders)
+{
+    <table border="1">
+        <tr>
+            <th>OrderId</th>
+            <th>CustomerId</th>
+            <th>EmployeeId</th>
+            <th>OrderDate</th>
+            <th>RequiredDate</th>
+            <th>ShippedDate</th>
+            <th>ShipVia</th>
+            <th>Freight</th>
+            <th>ShipName</th>
+            <th>ShipAddress</th>
+            <th>ShipCity</th>
+            <th>ShipRegion</th>
+            <th>ShipPostalCode</th>
+            <th>ShipCountry</th>
+
+        </tr>
+        <tr>
+            <td>@anItem.OrderId</td>
+            <td>@anItem.CustomerId</td>
+            <td>@anItem.EmployeeId</td>
+            <td>@anItem.OrderDate</td>
+            <td>@anItem.RequiredDate</td>
+            <td>@anItem.ShippedDate</td>
+            <td>@anItem.ShipVia</td>
+            <td>@anItem.Freight</td>
+            <td>@anItem.ShipName</td>
+            <td>@anItem.ShipAddress</td>
+            <td>@anItem.ShipCity</td>
+            <td>@anItem.ShipRegion</td>
+            <td>@anItem.ShipPostalCode</td>
+            <td>@anItem.ShipCountry</td>
+
+        </tr>
+    </table>
+
+        <h2>Update Form</h2>
+        <form action="UpdateOrders">
+            OrderId<input type="text" value="@anItem.OrderId" name="OrdId" /><br />          
+            OrderDate<input type="text" value="@anItem.OrderDate" name="OrdDat" /><br />
+            RequiredDate<input type="text" value="@anItem.RequiredDate" name="ReqDat" /><br />
+            ShippedDate<input type="text" value="@anItem.ShippedDate" name="ShiDat" /><br />
+            Freight<input type="text" value="@anItem.Freight" name="OFri" /><br />
+            ShipName<input type="text" value="@anItem.ShipName" name="ShiNam" /><br />
+            ShipAddress<input type="text" value="@anItem.ShipAddress" name="ShiAdd" /><br />
+            ShipCity<input type="text" value="@anItem.ShipCity" name="ShiCit" /><br />
+            ShipRegion<input type="text" value="@anItem.ShipRegion" name="ShiReg" /><br />
+            ShipPostalCode<input type="text" value="@anItem.ShipPostalCode" name="ShiPosCo" /><br />
+            ShipCountry<input type="text" value="@anItem.ShipCountry" name="ShiCou" /><br />
+\            <button type="submit" value="submit">Submit Changes</button>
+            <button type="reset" value="reset">Reset Form</button>
+        </form>
+
+}
+
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+

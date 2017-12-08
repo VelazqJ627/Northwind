@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "CustomersDetail";
+}
+
+<h2>CustomersDetail</h2>
+@foreach (var anItem in ViewBag.ListOfCustomers)
+{
+    <table border="1">
+        <tr>
+            <th>CustomerId</th>
+            <th>CompanyName</th>
+            <th>ContactName</th>
+            <th>ContactTitle</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>Region</th>
+            <th>PostalCode</th>
+            <th>Country</th>
+            <th>Phone</th>
+            <th>Fax</th>
+        </tr>
+        <tr>
+            <td>@anItem.CustomerId</td>
+            <td>@anItem.CompanyName</td>
+            <td>@anItem.ContactName</td>
+            <td>@anItem.ContactTitle</td>
+            <td>@anItem.Address</td>
+            <td>@anItem.City</td>
+            <td>@anItem.Region</td>
+            <td>@anItem.PostalCode</td>
+            <td>@anItem.Country</td>
+            <td>@anItem.Phone</td>
+            <td>@anItem.Fax</td>
+
+        </tr>
+    </table>
+
+        <h2>Update Form</h2>
+        <form action="UpdateCustomers">
+            CustomerId<input type="text" value="@anItem.CustomerId" name="custId" /><br />
+            CompanyName<input type="text" value="@anItem.CompanyName" name="compName" /><br />
+            ContactName<input type="text" value="@anItem.ContactName" name="contName" /><br />
+            ContactTitle<input type="text" value="@anItem.ContactTitle" name="contTitle" /><br />
+            Address<input type="text" value="@anItem.Address" name="address" /><br />
+            City<input type="text" value="@anItem.City" name="city" /><br />
+            Region<input type="text" value="@anItem.Region" name="region" /><br />
+            PostalCode<input type="text" value="@anItem.PostalCode" name="postalCode" /><br />
+            Country<input type="text" value="@anItem.Country" name="country" /><br />
+            Phone<input type="text" value="@anItem.Phone" name="phone" /><br />
+            Fax<input type="text" value="@anItem.Fax" name="fax" /><br />
+            <button type="submit" value="submit">Submit Changes</button>
+            <button type="reset" value="reset">Reset Form</button>
+        </form>
+
+}
+
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />

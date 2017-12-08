@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "ODDetails";
+}
+
+<h2>ODDetails</h2>
+
+@foreach (var anItem in ViewBag.ListOfOrderDetails)
+{
+    <table border="1">
+        <tr>
+            <th>OrderId</th>
+            <th>Product Id</th>
+            <th>Unit Price</th>
+            <th>Quantity</th>
+            <th>discount</th>
+        </tr>
+        <tr>
+            <td>@anItem.OrderId</td>
+            <td>@anItem.ProductId</td>
+            <td>@anItem.UnitPrice</td>
+            <td>@anItem.Quantity<td>
+            <td>@anItem.Discount</td>
+        </tr>
+    </table>
+
+        <h2>Update Form</h2>
+        <form action="UpdateOrderDetails">
+            OrderId<input type="text" value="@anItem.OrderId" name="OrdId" /><br />
+            ProductId<input type="text" value="@anItem.ProductId" name="ProId" /><br />
+            UnitPrice<input type="text" value="@anItem.UnitPrice" name="ODUnit" /><br />
+            Quantity<input type="text" value="@anItem.Quantity" name="ODQuan" /><br />
+            Discount<input type="text" value="@anItem.Discount" name="ODDis" /><br />
+            <button type="submit" value="submit">Submit Changes</button>
+            <button type="reset" value="reset">Reset Form</button>
+        </form>
+
+}
+
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+

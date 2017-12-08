@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "ProductDetails";
+}
+
+<h2>ProductDetails</h2>
+
+@foreach (var anItem in ViewBag.ListOfProducts)
+{
+    <table border="1">
+        <tr>
+            <th>Product Id</th>
+            <th>Product Name</th>
+            <th>Quantity Per Unit</th>
+            <th>Unit Price</th>
+            <th>Units In Stock</th>
+            <th>Units On Order</th>
+            <th>Reorder Level</th>
+            <th>Discontinued</th>
+
+        </tr>
+        <tr>
+            <td>@anItem.ProductId</td>
+            <td>@anItem.ProductName</td>
+            <td>@anItem.QuantityPerUnit</td>
+            <td>@anItem.UnitPrice</td>
+            <td>@anItem.UnitsInStock</td>
+            <td>@anItem.UnitsOnOrder</td>
+            <td>@anItem.ReorderLevel</td>
+            <td>@anItem.Discontinued</td>
+
+        </tr>
+    </table>
+
+        <h2>Update Form</h2>
+        <form action="UpdateProducts">
+            ProductId<input type="text" value="@anItem.ProductId" name="ProId" /><br />
+            ProductName<input type="text" value="@anItem.ProductName" name="ProName" /><br />
+            QuantityPerUnit<input type="text" value="@anItem.QuantityPerUnit" name="QPU" /><br />
+            UnitPrice<input type="text" value="@anItem.UnitPrice" name="UnPr" /><br />
+            UnitsInStock<input type="text" value="@anItem.UnitsInStock" name="UIS" /><br />
+            UnitsOnOrder<input type="text" value="@anItem.UnitsOnOrder" name="UOO" /><br />
+            ReorderLevel<input type="text" value="@anItem.ReorderLevel" name="ReLe" /><br />
+            Discontinued<input type="text" value="@anItem.Discontinued" name="Discon" /><br />
+            <button type="submit" value="submit">Submit Changes</button>
+            <button type="reset" value="reset">Reset Form</button>
+        </form>
+
+}
+
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />

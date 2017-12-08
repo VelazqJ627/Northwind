@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "Employees";
+}
+
+<h2>Employees</h2>
+<table border="1">
+    <tr>
+        <th>EmployeeID</th>
+        <th>LastName</th>
+        <th>FirstName</th>
+        <th>Title</th>
+        <th>TitleOfCourtesy</th>
+        <th>BirthDate</th>
+        <th>HireDate</th>
+        <th>Address</th>
+        <th>City</th>
+        <th>Region</th>
+        <th>PostalCode</th>
+        <th>Country</th>
+        <th>HomePhone</th>
+        <th>Extension</th>
+        <th>Photo</th>
+        <th>Notes</th>
+        <th>ReportsTo</th>
+
+
+    </tr>
+
+    @foreach (var anItem in ViewBag.ListOfEmployees)
+    {
+        <tr>
+            <td>@anItem.EmployeeId</td>
+            <td><a href="EmployeesDetail?EmpId=@anItem.EmployeeId">@anItem.LastName</a></td>
+            <td>@anItem.FirstName</td>
+            <td>@anItem.Title</td>
+            <td>@anItem.TitleOfCourtesy</td>
+            <td>@anItem.BirthDate</td>
+            <td>@anItem.HireDate</td>
+            <td>@anItem.Address</td>
+            <td>@anItem.City</td>
+            <td>@anItem.Region</td>
+            <td>@anItem.PostalCode</td>
+            <td>@anItem.Country</td>
+            <td>@anItem.HomePhone</td>
+            <td>@anItem.Extension</td>
+            <td>@anItem.Photo</td>
+            <td>@anItem.Notes</td>
+            <td>@anItem.ReportsTo</td>
+
+        </tr>
+    }
+
+</table>
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+

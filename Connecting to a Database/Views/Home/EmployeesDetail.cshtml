@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewBag.Title = "EmployeesDetail";
+}
+
+<h2>EmployeesDetail</h2>
+
+@foreach (var anItem in ViewBag.ListOfEmployees)
+{
+    <table border="1">
+        <tr>
+            <th>EmployeeID</th>
+            <th>LastName</th>
+            <th>FirstName</th>
+            <th>Title</th>
+            <th>TitleOfCourtesy</th>
+            <th>BirthDate</th>
+            <th>HireDate</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>Region</th>
+            <th>PostalCode</th>
+            <th>Country</th>
+            <th>HomePhone</th>
+            <th>Extension</th>
+            <th>Photo</th>
+            <th>Notes</th>
+            <th>ReportsTo</th>
+            <th>Active</th>
+        </tr>
+        <tr>
+            <td>@anItem.EmployeeId</td>
+            <td>@anItem.LastName</td>
+            <td>@anItem.FirstName</td>
+            <td>@anItem.Title</td>
+            <td>@anItem.TitleOfCourtesy</td>
+            <td>@anItem.BirthDate</td>
+            <td>@anItem.HireDate</td>
+            <td>@anItem.Address</td>
+            <td>@anItem.City</td>
+            <td>@anItem.Region</td>
+            <td>@anItem.PostalCode</td>
+            <td>@anItem.Country</td>
+            <td>@anItem.HomePhone</td>
+            <td>@anItem.Extension</td>
+            <td>@anItem.Photo</td>
+            <td>@anItem.Notes</td>
+            <td>@anItem.ReportsTo</td>
+        </tr>
+    </table>
+
+        <h2>Update Form</h2>
+        <form action="UpdateEmployees">
+            EmployeeId<input type="text" value="@anItem.EmployeeId" name="EmpId" /><br />
+            LastName<input type="text" value="@anItem.LastName" name="EmLa" /><br />
+            FirstName<input type="text" value="@anItem.FirstName" name="EmFi" /><br />
+            Title<input type="text" value="@anItem.Title" name="EmTi" /><br />
+            TitleOfCourtesy<input type="text" value="@anItem.TitleOfCourtesy" name="EmTOC" /><br />
+            BirthDate<input type="text" value="@anItem.BirthDate" name="EmBi" /><br />
+            HireDate<input type="text" value="@anItem.HireDate" name="EmpHD" /><br />
+            Address<input type="text" value="@anItem.Address" name="EmAd" /><br />
+            City<input type="text" value="@anItem.City" name="EmCi" /><br />
+            Region<input type="text" value="@anItem.Region" name="EmpRe" /><br />
+            PostalCode<input type="text" value="@anItem.PostalCode" name="EmPC" /><br />
+            Country<input type="text" value="@anItem.Country" name="EmCu" /><br />
+            HomePhone<input type="text" value="@anItem.HomePhone" name="EmpHP" /><br />
+            Extension<input type="text" value="@anItem.Extension" name="EmEx" /><br />
+            Photo<input type="text" value="@anItem.Photo" name="EmPh" /><br />
+            Notes<input type="text" value="@anItem.Notes" name="EmpNo" /><br />
+            ReportsTo<input type="text" value="@anItem.ReportsTo" name="EmRT" /><br />
+            <button type="submit" value="submit">Submit Changes</button>
+            <button type="reset" value="reset">Reset Form</button>
+        </form>
+
+}
+
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+

@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Suppliers";
+}
+
+<h2>Suppliers</h2>
+
+<table border="1">
+    <tr>
+        <th>SupplierID</th>
+        <th>CompanyName</th>
+        <th>ContactName</th>
+        <th>ContactTitle</th>
+        <th>Address</th>
+        <th>City</th>
+        <th>Region</th>
+        <th>PostalCode</th>
+        <th>Country</th>
+        <th>Phone</th>
+        <th>Fax</th>
+        <th>HomePage</th>
+    </tr>
+
+    @foreach (var anItem in ViewBag.ListOfSuppliers)
+    {
+        <tr>
+            <td>@anItem.SupplierId</td>
+            <td><a href="SupplierDetails?SupId=@anItem.SupplierId">@anItem.CompanyName</a></td>
+            <td>@anItem.ContactName</td>
+            <td>@anItem.ContactTitle</td>
+            <td>@anItem.Address</td>
+            <td>@anItem.City</td>
+            <td>@anItem.Region</td>
+            <td>@anItem.PostalCode</td>
+            <td>@anItem.Country</td>
+            <td>@anItem.Phone</td>
+            <td>@anItem.Fax</td>
+            <td>@anItem.HomePage</td>
+
+        </tr>
+    }
+
+</table>
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />

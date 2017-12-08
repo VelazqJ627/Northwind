@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "CategoryDetail";
+}
+
+<h2>CategoryDetail</h2>
+@foreach (var anItem in ViewBag.ListOfCategories)
+{
+    <table border="1">
+        <tr>
+            <th>Category Id</th>
+            <th>Category Name</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>@anItem.CategoryId</td>
+            <td>@anItem.CategoryName</td>
+            <td>@anItem.Description</td>
+        </tr>
+        </table>
+        
+        <h2>Update Form</h2>
+        <form action="UpdateCategory">
+            CategoryId<input type="text" value="@anItem.CategoryId" name="CatId" /><br />
+            CategoryName<input type="text" value="@anItem.CategoryName" name="CatName" /><br />
+            Description<input type="text" value="@anItem.Description" name="CatDes"/><br />
+            <button type="submit" value="submit">Submit Changes</button>
+            <button type="reset" value="reset">Reset Form</button>
+        </form>
+
+}
+
+        <a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />

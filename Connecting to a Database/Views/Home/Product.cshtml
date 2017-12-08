@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Product";
+}
+
+<h2>Product</h2>
+
+<table border="1">
+    <tr>
+        <th>Product Id</th>
+        <th>Product Name</th>
+        <th>Quantity Per Unit</th>
+        <th>Unit Price</th>
+        <th>Units In Stock</th>
+        <th>Units On Order</th>
+        <th>Reorder Level</th>
+        <th>Discontinued</th>
+
+    </tr>
+
+    @foreach (var anItem in ViewBag.ListOfProducts)
+    {
+        <tr>
+            <td>@anItem.ProductId</td>
+            <td><a href="ProductDetails?ProId=@anItem.ProductId">@anItem.ProductName</a></td>
+            <td>@anItem.QuantityPerUnit</td>
+            <td>@anItem.UnitPrice</td>
+            <td>@anItem.UnitsInStock</td>
+            <td>@anItem.UnitsOnOrder</td>
+            <td>@anItem.ReorderLevel</td>
+            <td>@anItem.Discontinued</td>
+
+        </tr>
+    }
+
+</table>
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+

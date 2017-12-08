@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "OrderDetails";
+}
+
+<h2>OrderDetails</h2>
+<table border="1">
+    <tr>
+        <th>OrderId</th>
+        <th>Product Id</th>
+        <th>Unit Price</th>
+        <th>Quantity</th>
+        <th>discount</th>
+    </tr>
+
+    @foreach (var anItem in ViewBag.ListOfOrderDetails)
+    {
+        <tr>
+            <td>@anItem.OrderId</td>
+            <td><a href="ODDetails?OrdId=@anItem.OrderId">@anItem.ProductId</a></td>
+            <td>@anItem.UnitPrice</td>
+            <td>@anItem.Quantity<td>
+            <td>@anItem.Discount</td>
+        </tr>
+    }
+
+</table>
+<a class="btn btn-default" href="Index" style="margin-bottom: 10px;">Return</a><br />
+
+
